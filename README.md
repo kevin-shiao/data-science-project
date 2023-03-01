@@ -1,2 +1,3 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+"project creation date:" February 20, 2023 authors: Kevin.S, Arshia.T, Georgia.C, Kenneth.K
+
+Started Project Proposal using the Audits dataset
